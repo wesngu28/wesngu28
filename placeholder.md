@@ -5,7 +5,6 @@ Non-cs student trying to break into software and web development, I am a univers
 
 ### My Stack
 
-#### Project Experience
 I have used these on a project and have project experience.
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
@@ -29,8 +28,7 @@ I have used these on a project and have project experience.
 <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white">
 </p>
 
-#### Distro (OS) Hopping
-Distros I have tried to daily drive. Using Windows, openSuse Tumbleweed, and Zorin at the moment with a Debian server.
+Operating systems I have tried to daily drive. Using Windows, openSuse Tumbleweed, and Zorin at the moment with a Debian server.
 <p align="center">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white">
@@ -42,7 +40,6 @@ Distros I have tried to daily drive. Using Windows, openSuse Tumbleweed, and Zor
 <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=flat-square&logo=google%20chrome&logoColor=white">
 </p>
 
-#### Familiarities
 I have worked with these technologies in the past and am familiar with their workings.
 <p align="center">
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white">
