@@ -5,7 +5,11 @@ Non-cs student trying to break into software and web development, I am a univers
 
 ### My Stack
 
-I have used these on a project and have project experience.
+Group 1 - I have used these on a project and have project experience. 
+
+Group 2 - I have used these in a classroom and small project setting. 
+
+Group 3 - OSes I have used or are using (windows, tumbleweed, zorin, debian)
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
@@ -28,20 +32,6 @@ I have used these on a project and have project experience.
 <img src="https://img.shields.io/badge/markdown-%23000.svg?style=flat-square&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white">
 </p>
-
-Operating systems I have tried to daily drive. Using Windows, openSuse Tumbleweed, and Zorin at the moment with a Debian server.
-<p align="center">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white">
-<img src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=flat-square&logo=zorin&logoColor=white">
-<img src="https://img.shields.io/badge/openSUSE-%2364B345?style=flat-square&logo=openSUSE&logoColor=white">
-<img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=Linux%20Mint&logoColor=white">
-<img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white">
-<img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white">
-<img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=flat-square&logo=google%20chrome&logoColor=white">
-</p>
-
-I have worked with these technologies in the past and am familiar with their workings.
 <p align="center">
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white">
@@ -50,18 +40,13 @@ I have worked with these technologies in the past and am familiar with their wor
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white">
 </p>
-
-I am still striving to improve my skills at all the above!
+<p align="center">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white">
+<img src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=flat-square&logo=zorin&logoColor=white">
+<img src="https://img.shields.io/badge/openSUSE-%2364B345?style=flat-square&logo=openSUSE&logoColor=white">
+<img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=Linux%20Mint&logoColor=white">
+<img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white">
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesngu28&exclude_repo=edm-prediction-model,USA-Europe-GeoTag&layout=compact&langs_count=8)
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12170302133&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)  
- 
-I want to learn these someday
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Go](https://img.shields.io/badge/go-%230050D5.svg?style=flat-square&logo=Go&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
