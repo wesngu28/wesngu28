@@ -3,6 +3,8 @@ Non-cs student trying to break into software and web development, I am a univers
 
 <a href="https://www.linkedin.com/in/wesngu28/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12170302133&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
 ### My Stack
 
 Group 1 - I have used these on a project and have project experience. 
@@ -49,4 +51,6 @@ Group 3 - OSes I have used or are using (windows, tumbleweed, zorin, debian)
 <img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesngu28&exclude_repo=edm-prediction-model,USA-Europe-GeoTag&layout=compact&langs_count=8)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesngu28&exclude_repo=edm-prediction-model,USA-Europe-GeoTag&layout=compact&langs_count=8">
+</p>
