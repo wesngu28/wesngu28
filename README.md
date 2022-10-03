@@ -1,17 +1,13 @@
-## Hi there 👋
+<div style="display:flex; flex-direction:column; align-items:center;">
+
+## Hi there 👋 <a href="https://www.linkedin.com/in/wesngu28/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
 Non-cs student trying to break into software and web development, I am a university student at the University of Washington currently studying Geography Data Science and self-teaching myself software development. I hope to one day work with technology to improve the quality of life of others.
 
-<a href="https://www.linkedin.com/in/wesngu28/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12170302133&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+<details>
 
 ### My Stack
+The first row indicates project experience and libraries and frameworks I am quite familiar in, while the second is primarily limited exposure or was learned in school. The third row are OSes I have used (currently Windows, openSuse tumbleweed, ZorinOS, and Debian.
 
-Group 1 - I have used these on a project and have project experience. 
-
-Group 2 - I have used these in a classroom and small project setting. 
-
-Group 3 - OSes I have used or are using (windows, tumbleweed, zorin, debian)
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
@@ -31,7 +27,7 @@ Group 3 - OSes I have used or are using (windows, tumbleweed, zorin, debian)
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/markdown-%23000.svg?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/markdown-%23000.svg?style=flat-square&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white">
 </p>
 <p align="center">
@@ -50,7 +46,10 @@ Group 3 - OSes I have used or are using (windows, tumbleweed, zorin, debian)
 <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=Linux%20Mint&logoColor=white">
 <img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white">
 </p>
+</details>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesngu28&exclude_repo=edm-prediction-model,USA-Europe-GeoTag&layout=compact&langs_count=8">
-</p>
+<div style="margin-top:4rem; display: flex; justify-content: center; align-items: center;">
+<a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12170302133&cover_image=true&theme=novatorem"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesngu28&exclude_repo=edm-prediction-model,USA-Europe-GeoTag&layout=compact&langs_count=8"></a>
+</div>
+</div>
