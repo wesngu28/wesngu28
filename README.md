@@ -1,9 +1,10 @@
-<div style="display:flex; flex-direction:column; align-items:center;">
+<div align="center">
 
 ## Hi there 👋 <a href="https://www.linkedin.com/in/wesngu28/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
 Non-cs student trying to break into software and web development, I am a university student at the University of Washington currently studying Geography Data Science and self-teaching myself software development. I hope to one day work with technology to improve the quality of life of others.
 
 <details>
+<summary>My Stack</summary>
 
 ### My Stack
 The first row indicates project experience and libraries and frameworks I am quite familiar in, while the second is primarily limited exposure or was learned in school. The third row are OSes I have used (currently Windows, openSuse tumbleweed, ZorinOS, and Debian.
