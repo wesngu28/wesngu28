@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi there 👋 <a href="https://www.linkedin.com/in/wesngu28/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
-University student trying to break into software and web development, I am a university student at the University of Washington currently studying Geography Data Science and self-teaching myself software development. I hope to one day work with technology to improve the quality of life of others.
+I am a university student at the University of Washington currently studying Geography Data Science and self-teaching myself software development. I hope to one day work with technology to improve the quality of life of others.
 
 <details>
 <summary>My Stack</summary>
