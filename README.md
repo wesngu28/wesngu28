@@ -42,10 +42,7 @@ The first row indicates project experience and libraries and frameworks I am qui
 <p align="center">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white">
-<img src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=flat-square&logo=zorin&logoColor=white">
 <img src="https://img.shields.io/badge/openSUSE-%2364B345?style=flat-square&logo=openSUSE&logoColor=white">
-<img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=Linux%20Mint&logoColor=white">
-<img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white">
 </p>
 </details>
 
