@@ -2,7 +2,7 @@
 
 ## Hi there 👋 <a href="https://www.linkedin.com/in/wesngu28/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
 
-I am a university student at the University of Washington currently studying Geography Data Science and self-teaching myself software development. I hope to one day work with technology to improve the quality of life of others.
+University student at the University of Washington studying Geography Data Science and self-teaching myself software development. Interested in front-end and full-stack. Would love to collab on projects.
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"> <a href="https://get.opensuse.org/tumbleweed/"><img src="https://img.shields.io/badge/openSUSE-%2364B345?style=flat-square&logo=openSUSE&logoColor=white"></a> <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white"></span>
 
@@ -28,6 +28,8 @@ I am a university student at the University of Washington currently studying Geo
 <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=Svelte&logoColor=white">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D">
+<img src="https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=#00DC82">
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white">
 </div>
 <div style="display: flex; align-items: center;">
