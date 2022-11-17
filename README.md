@@ -54,6 +54,6 @@ University student at the University of Washington studying Geography Data Scien
 
 <div style="margin-top:4rem; display: flex; justify-content: center; align-items: center;">
 <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12170302133&cover_image=true&theme=novatorem"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://readme-scramble.vercel.app/api/top-langs/?username=wesngu28&exclude_repo=edm-prediction-model,USA-Europe-GeoTag&layout=compact&langs_count=10"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://readme-scramble.vercel.app/api/top-langs/?username=wesngu28&exclude_repo=edm-prediction-model,wesngu28.com-nextjs,USA-Europe-GeoTag&layout=compact&langs_count=10"></a>
 </div>
 </div>
