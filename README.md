@@ -1,10 +1,8 @@
-<div align="center">
-
 ## Hi there 👋 <a href="https://www.linkedin.com/in/wesngu28/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
 
-University student at the University of Washington studying Geography Data Science and self-teaching myself software development. Interested in front-end and full-stack. Would love to collab on projects.
+Prospective front-end/full-stack developer with a Bachelor's in Geography Data Science, looking for career opportunities. Would love to collab on projects.
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"> <a href="https://get.opensuse.org/tumbleweed/"><img src="https://img.shields.io/badge/openSUSE-%2364B345?style=flat-square&logo=openSUSE&logoColor=white"></a> <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white"></span>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"> <a href="https://get.opensuse.org/tumbleweed/"><img src="https://img.shields.io/badge/openSUSE-%2364B345?style=flat-square&logo=openSUSE&logoColor=white"></a> <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white"></span> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white">
 
 <details>
 <summary>My Stack</summary>
@@ -33,17 +31,22 @@ University student at the University of Washington studying Geography Data Scien
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white">
 </div>
 <div style="display: flex; align-items: center;">
-<img src="https://img.shields.io/badge/-backend/mix-black.svg?style=flat-square">
+<img src="https://img.shields.io/badge/-backend-black.svg?style=flat-square">
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white">
+</div>
+<div style="display: flex; align-items: center;">
+<img src="https://img.shields.io/badge/-other-black.svg?style=flat-square">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/markdown-%23000.svg?style=flat-square&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white">
@@ -55,4 +58,4 @@ University student at the University of Washington studying Geography Data Scien
 <div style="margin-top:4rem; display: flex; justify-content: center; align-items: center;">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://readme-scramble.vercel.app/api/top-langs/?username=wesngu28&exclude_repo=edm-prediction-model,wesngu28.com-nextjs,USA-Europe-GeoTag&layout=compact&langs_count=10"></a>
 </div>
-</div>
+
