@@ -57,7 +57,3 @@ Prospective front-end/full-stack developer with a Bachelor's in Geography Data S
 </div>
 </details>
 
-<div style="margin-top:4rem; display: flex; justify-content: center; align-items: center;">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://readme-scramble.vercel.app/api/top-langs/?username=wesngu28&exclude_repo=edm-prediction-model,wesngu28.com-nextjs,USA-Europe-GeoTag&layout=compact&langs_count=10"></a>
-</div>
-
