@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Front-end/full-stack developer with a Bachelor's in Geography Data Science, looking for career opportunities. Would love to collab on projects.
+Front-end/full-stack developer with a Bachelor's in Geography Data Science. Would love to collab on projects.
 
 <details>
 <summary>My Stack</summary>
